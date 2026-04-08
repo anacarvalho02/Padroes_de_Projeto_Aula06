@@ -8,6 +8,8 @@ Obs.: Salve no PDF o Link do Repositório da aplicação 1
 
 2) Adicione um quarto canal de notificação: WhatsAppNotificacao, sem modificar nenhuma classe já existente. Isso demonstrará na prática o Princípio do Aberto/Fechado (OCP) do SOLID, que o padrão Factory Method naturalmente favorece. 
 
-Obs.: Salve no PDF o Link do Repositório da aplicação 2. Cada aplicação deve ficar no seu repositório.
+Obs.: Salve no PDF o Link do Repositório da aplicação
+
+     2. Cada aplicação deve ficar no seu repositório.
 
 Obs.: Cada aplicação deve ter seu UML
